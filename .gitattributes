@@ -1,0 +1,6 @@
+*.jpg binary
+*.zip binary
+*.png binary
+*.jpeg binary
+img/** binary
+img/** -text -diff
